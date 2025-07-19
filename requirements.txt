@@ -1,0 +1,9 @@
+ipython
+ipywidgets
+itables
+matplotlib
+notebook
+numpy
+pandas
+seaborn
+scipy
