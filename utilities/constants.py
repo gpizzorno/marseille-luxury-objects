@@ -24,15 +24,39 @@ GENDER_ENCODING = {
 FAITH_DECODING = {v: k for k, v in FAITH_ENCODING.items()}
 GENDER_DECODING = {v: k for k, v in GENDER_ENCODING.items()}
 
+# Grouped columns
 DYESTUFFS = key[key['group'] == 'dyestuffs']['col_name'].tolist()
 EXOTIC = key[key['group'] == 'exotic']['col_name'].tolist()
 FOOD_PREPARATION = key[key['group'] == 'food_preparation']['col_name'].tolist()
-HOUSEHOLD = key[key['group'] == 'household']['col_name'].tolist()
+HOUSEHOLD_ALL = key[key['group'] == 'household']['col_name'].tolist()
 LUXURY = key[key['group'] == 'luxury']['col_name'].tolist()
-WEAPONS_AND_ARMOUR = key[key['group'] == 'weapons_and_armour']['col_name'].tolist()
+WEAPONS_AND_ARMOUR_ALL = key[key['group'] == 'weapons_and_armour']['col_name'].tolist()
 LINENS = key[key['group'] == 'linens']['col_name'].tolist()
+
+# Subgrouped columns
 CUSHIONS = key[key['subgroup'] == 'cushions']['col_name'].tolist()
 PILLOWS = key[key['subgroup'] == 'pillows']['col_name'].tolist()
+PROJECTILE_WEAPONS = key[key['subgroup'] == 'projectile_weapons']['col_name'].tolist()
+ARMOUR = key[key['subgroup'] == 'armour']['col_name'].tolist()
+SHIELDS = key[key['subgroup'] == 'shields']['col_name'].tolist()
+POLEARMS = key[key['subgroup'] == 'polearms']['col_name'].tolist()
+MELEE_WEAPONS = key[key['subgroup'] == 'melee_weapons']['col_name'].tolist()
+
+
+HOUSEHOLD = [
+    'candelabra',
+    'lamps',
+    'cushions',
+    'pillows',
+]
+
+WEAPONS_AND_ARMOUR = [
+    'armour',
+    'melee_weapons',
+    'polearms',
+    'projectile_weapons',
+    'shields',
+]
 
 # P/A group columns
 PA_GROUPS = [

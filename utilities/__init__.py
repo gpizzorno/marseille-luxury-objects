@@ -1,6 +1,7 @@
 """Interface for utilities module."""
 
 from .constants import (
+    ARMOUR,
     CUSHIONS,
     DATE_GROUPINGS,
     DYESTUFFS,
@@ -11,17 +12,24 @@ from .constants import (
     GENDER_DECODING,
     GENDER_ENCODING,
     HOUSEHOLD,
+    HOUSEHOLD_ALL,
     LINENS,
     LUXURY,
+    MELEE_WEAPONS,
     PA_FULL,
     PA_GROUPS,
     PA_OBJECTS,
     PILLOWS,
+    POLEARMS,
+    PROJECTILE_WEAPONS,
+    SHIELDS,
     VAR_GROUPS,
     WEAPONS_AND_ARMOUR,
+    WEAPONS_AND_ARMOUR_ALL,
 )
 
 __all__ = [
+    'ARMOUR',
     'CUSHIONS',
     'DATE_GROUPINGS',
     'DYESTUFFS',
@@ -32,12 +40,18 @@ __all__ = [
     'GENDER_DECODING',
     'GENDER_ENCODING',
     'HOUSEHOLD',
+    'HOUSEHOLD_ALL',
     'LINENS',
     'LUXURY',
+    'MELEE_WEAPONS',
     'PA_FULL',
     'PA_GROUPS',
     'PA_OBJECTS',
     'PILLOWS',
+    'POLEARMS',
+    'PROJECTILE_WEAPONS',
+    'SHIELDS',
     'VAR_GROUPS',
     'WEAPONS_AND_ARMOUR',
+    'WEAPONS_AND_ARMOUR_ALL',
 ]
