@@ -1,0 +1,62 @@
+col_name,group,subgroup,match_terms,notes
+alembics,food_preparation,,"alem-, alam-, alab-, aranb-, cucur-",
+alexandria,exotic,,Alex-,
+amber,exotic,,"amb-, anb-",
+arcus,weapons_and_armour,projectile_weapons,arcu-,Bow.
+auricula,household,pillows,auricul-,
+ballista,weapons_and_armour,projectile_weapons,"ballist-, balist-","Crossbow, also albal-, albar- balista."
+bassinetus,weapons_and_armour,armour,bassin-,Basnet helmet. Ambiguity with basin.
+bedsheets,linens,,lint-,
+bejaia,exotic,,Bogia-,
+belts,luxury,,zona-,
+black_dyestuff,dyestuffs,,nigr-,
+bloquerius,weapons_and_armour,shields,bloque-,Shield.
+bolsters,household,,"transverser-, traverser-",
+brassaletus,weapons_and_armour,armour,"bras-, avantbras-","Vambrace, also brassa, avant brassa, brassaleria, canones, trabrassier, brassetis, par manicarum de malha, cota de malhe."
+caliga,weapons_and_armour,armour,calig-,Iron shoes. GHP: sabaton/solleret?
+camallia,weapons_and_armour,armour,"camal-, mal-","Gorget, also camalho. Shoulders or gorget, avantail, French ""camail, tissu de mailles qui prot�geait le bas de la t�te et le cou""."
+camberia,weapons_and_armour,armour,camber-,"Greaves, also arnesio tibiarum."
+candelabra,household,,candela-,
+capellus,weapons_and_armour,armour,capel-,Helmet.  Ambiguity with caps (look for iron).
+carcays,weapons_and_armour,projectile_weapons,"carca-, quarqua-","Quiver, also carcaysium, carcarsium, quarquais."
+chavarina,weapons_and_armour,polearms,chavarin-,Lance.
+cirotheca,weapons_and_armour,armour,"cirot-, sirot-, syrot-","Gauntlet, also sirotheca, cirotecha, syrot-."
+clipeus,weapons_and_armour,shields,clipe-,Shield. Same as bloquerius and scutus.
+coysin,household,cushions,"coysin-, coyss-, coisin-, coissin-, coxin-",
+curassia,weapons_and_armour,armour,curas-,Cuirass.
+damascus,exotic,,"Damas-, Domas-",
+dough_troughs,food_preparation,,"mastra-, pestrin-",
+elma,weapons_and_armour,armour,elm-,"Helmet, also elme."
+ensis,weapons_and_armour,melee_weapons,"ensis, ensem, enses","Sword, also ensem, enses, espaza."
+fluna,household,pillows,fluna-,
+gantelletus,weapons_and_armour,armour,"gantel-, gandel-","Gauntlet, also gandelleto."
+gladius,weapons_and_armour,melee_weapons,gladi-,Short sword.
+gold_jewellery,luxury,,aur-,"In decorative item or jewelry, not in coins, gilding, or thread."
+gorjerium,weapons_and_armour,armour,"gorg-, gorj-, gori-","Gorget, also gorgerium, gorgeria, gorgal."
+green_dyestuff,dyestuffs,,virid-,
+lamps,household,,"crucibol-, crussibol-, lampad-, calen-, calel-, velhol-",
+lanceus,weapons_and_armour,polearms,"lans-, lanc-, bilans-, bilanc-","Lance, also lanseus, lancea, lansea,  lanss, bilansibus."
+lorica,weapons_and_armour,armour,"loric-, luric-","Corselet, cuirass, breastplate; also lurica."
+manutecha,weapons_and_armour,armour,manut-,Gauntlet.
+massa,weapons_and_armour,melee_weapons,"massas, massam, massia","Mace, also massia. Two massias appear next to two chavarinas in one inventory."
+mortars,food_preparation,,morter-,
+panseria,weapons_and_armour,armour,panser-,"Cuirass, also cota de malha; malh; mals;  NOT panss- or panc-."
+pavesius,weapons_and_armour,shields,paves-,Shield.
+pearls,exotic,,perl-,
+plata,weapons_and_armour,armour,plata-,Cuirass.
+pulvinar,household,cushions,pulvinar-,
+purple_dyestuff,dyestuffs,,violet-,
+ruby_red_dyestuff,dyestuffs,,rube-,
+rudella,weapons_and_armour,shields,"rudell-, rutell-","Shield, also rutella. One inventory makes equivalence of rutelle and targie."
+scutum,weapons_and_armour,shields,"scut-, scud-","Shield, also scuta, scuda, scutellum, scusselum. Ambiguity with coins; same as bloquerius and clipeus."
+sendal,luxury,,"sind-, send-, cend-",
+servelleria,weapons_and_armour,armour,"servel-, cervel-","Helmet, also cervelleria."
+silk,luxury,,"siric-, seric-, ciric-, ceric-, syric-",
+sotulares_ferreos,weapons_and_armour,armour,sotula-,Iron shoes. GHP: sabaton/solleret?
+spits,food_preparation,,"veru, ast-,  girado-",Except not for fish.
+spontonum,weapons_and_armour,melee_weapons,spont-,Short sword.
+tablecloths,linens,,mapp-,
+targia,weapons_and_armour,shields,"targ-, tarj- tari-","Shield, also targeta. Same as rudella."
+tunics,linens,,tunic-,Not supertunicale.
+turkey,exotic,,turq-,Excludes the colour.
+yellow_dyestuff,dyestuffs,,croce-,
