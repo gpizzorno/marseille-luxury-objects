@@ -1,6 +1,6 @@
 # marseille-luxury-objects
 
-This project is a data-based exploration of a number of research questions being considered by the authors. It aims to provide insights into material culture, wealth distribution, and social structures in medieval Marseille. The repository is shared to facilitate collaboration with colleagues and students. **Do not cite without permission.**
+This project is a data-focused exploration of a number of research questions being considered by the authors. It aims to provide insights into material culture, wealth distribution, and social structures in medieval Marseille. The repository is shared to facilitate collaboration with colleagues and students. **Do not cite without permission.**
 
 ## The Dataset
 
@@ -21,7 +21,3 @@ pip install -r requirements.txt
 3. **Cluster Analysis**: `cluster-analysis.ipynb` looks at ways of identifying groupings in the data.
 
 The `utilities/` folder contains helper scripts and constants used across the notebooks.
-
-
-
-
